@@ -1,27 +1,11 @@
-# Loop Trail Strategies — Brand Assets
+# Loop Trails Strategies brand assets (archived)
 
-This repository contains official brand assets for Loop Trail Strategies.
+This repository held the brand assets for **Loop Trails Strategies**, an earlier incarnation of the practice now operating as **Loop Trails AI**.
 
-## Structure
+The Loop Trails Strategies brand has been retired. This repo is archived and is no longer maintained.
 
-```
-/logo/
-  lts-logo-dark.png       — Primary wordmark for light backgrounds
-  lts-logo-white.png      — Inverted wordmark for dark backgrounds
-  lts-logomark.png        — Icon/mark only
+## Current brand
 
-/photography/
-  mthood-topo.jpg
-  fourpass-colorado.jpg
-  devilsdome-washington.jpg
-  cascade-wyoming.jpg
-  grandcanyon-arizona.jpg
+Loop Trails AI: https://looptrails.ai
 
-/headshot/
-  jordan-williams.jpg
-  jordan-signature.png
-```
-
-## Usage
-
-Replace placeholder `.gitkeep` files with actual assets when uploading.
+For current logos, color palette, typography, and style guidance, please reach out at jordan@looptrails.ai.
